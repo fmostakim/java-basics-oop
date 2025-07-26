@@ -1,15 +1,17 @@
 public class TestAnimal {
     public static void main(String[] args) {
 
-        Animal generAnimal = new Animal();
+        // Animal generAnimal = new Animal();
 
         Cat myCat = new Cat();
-        myCat.name = "Tom";
+        myCat.name = "Tom";  
 
 
-        generAnimal.makeSound();
+        // generAnimal.makeSound();
         myCat.makeSound();
         myCat.eat();
+        myCat.beFriendly();
+        myCat.play();
 
         // Dog myDog = new  Dog();
         // myDog.name = "Buddy";
