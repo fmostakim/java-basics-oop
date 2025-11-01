@@ -4,13 +4,19 @@ This repository contains Java codes for beginners to understand core concepts of
 
 ## 📚 Topics Covered
 
-### ✅ Basics
+### ✅ 
 - Hello World
 - Variables & Data Types
 - Input/Output
 - Conditional Statements
 - Loops
 - Arrays
+- GUI
+- ArrayList
+- Thread
+- Abstract
+- Interface
+
 
 ### 🧠 OOP Concepts
 - Class and Object
